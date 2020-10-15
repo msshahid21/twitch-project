@@ -38,8 +38,8 @@ plt.title("League of Legends Viewers' Whereabouts")
 plt.legend(labels, loc = "right")
 plt.show()
 plt.clf()
-# Line Graph: Time Series Analysis (viewers-by-hour.png)
 
+# Line Graph: Time Series Analysis (viewers-by-hour.png)
 hour = range(24)
 
 viewers_hour = [30, 17, 34, 29, 19, 14, 3, 2, 4, 9, 5, 48, 62, 58, 40, 51, 69, 55, 76, 81, 102, 120, 71, 63]
